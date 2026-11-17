@@ -41,6 +41,7 @@ Entre os algoritmos explorados inicialmente estão Regressão Logística e Rando
 O projeto encontra-se na fase de prototipagem metodológica. Inicialmente, foi desenvolvido um script em Python utilizando dados sintéticos para testar o fluxo de preparação, treinamento e avaliação dos modelos.
 
 As próximas etapas envolvem a adaptação da metodologia a uma base histórica hospitalar, mediante autorização institucional e utilização de dados adequadamente protegidos.
+
 ## Resultados
 
 ### Comparação entre os modelos
