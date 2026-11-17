@@ -42,6 +42,14 @@ O projeto encontra-se na fase de prototipagem metodológica. Inicialmente, foi d
 
 As próximas etapas envolvem a adaptação da metodologia a uma base histórica hospitalar, mediante autorização institucional e utilização de dados adequadamente protegidos.
 
+## Resultados
+
+### Comparação entre os modelos
+
+A curva ROC apresenta a comparação do desempenho dos modelos de Regressão Logística e Random Forest utilizando dados sintéticos.
+
+![Curva ROC dos modelos](roc_curve.png)
+
 ## Objetivo futuro
 
 Investigar o potencial de uma solução de apoio à decisão clínica baseada em dados, contribuindo para a identificação de pacientes com maior risco de MDRO na admissão à UTI.
@@ -53,3 +61,5 @@ Investigar o potencial de uma solução de apoio à decisão clínica baseada em
 Li et al. (2024). *Development and validation of machine learning models to predict MDRO colonization or infection on ICU admission by using electronic health record data.*
 
 [Consultar artigo científico](https://doi.org/10.1186/s13756-024-01428-y)
+
+
