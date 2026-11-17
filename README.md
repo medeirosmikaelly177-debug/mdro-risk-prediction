@@ -17,12 +17,11 @@ O estudo é baseado na metodologia de um artigo científico publicado em 2024, b
 
 ## Tecnologias utilizadas
 
-- Python
-- NumPy
-- Pandas
-- SciPy
-- Scikit-learn
-- Matplotlib
+- **Linguagem:** Python
+- **Manipulação e análise de dados:** NumPy e Pandas
+- **Análise estatística:** SciPy
+- **Machine Learning:** Scikit-learn
+- **Visualização de dados:** Matplotlib
 
 ## Metodologia
 
@@ -49,7 +48,6 @@ As próximas etapas envolvem a adaptação da metodologia a uma base histórica 
 A curva ROC apresenta a comparação do desempenho dos modelos de Regressão Logística e Random Forest utilizando dados sintéticos.
 
 ![Curva ROC dos modelos](roc_curve.png)
-
 ## Objetivo futuro
 
 Investigar o potencial de uma solução de apoio à decisão clínica baseada em dados, contribuindo para a identificação de pacientes com maior risco de MDRO na admissão à UTI.
